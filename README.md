@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leapingduck
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning html, css, and javascript. 
+- 👀 I’m interested in console apps
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: discord. 
 
